@@ -1,0 +1,5 @@
+scenario	GP_D_w	GP_D_a	UTC_D_w	UTC_D_a	UTC_A_w	UTC_A_a	MAJORS_D_w	MAJORS_D_a	MAJORS_A_w	MAJORS_A_a	RESUS_D_w	RESUS_D_a	RESUS_A_w	RESUS_A_a
+arr_25less	-0.25	-0.25	-0.25	-0.25	-0.25	-0.25	-0.25	-0.25	-0.25	-0.25	-0.25	-0.25	-0.25	-0.25
+arr_25more	0.25	0.25	0.25	0.25	0.25	0.25	0.25	0.25	0.25	0.25	0.25	0.25	0.25	0.25
+arr_50less_Amb	0	-0.5	0	-0.5	0	-0.5	0	-0.5	0	-0.5	0	-0.5	0	-0.5
+arr_25less_minor	-0.25	-0.25	-0.25	-0.25	-0.25	-0.25	0	0	0	0	0	0	0	0
